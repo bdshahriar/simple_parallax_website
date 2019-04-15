@@ -1,0 +1,23 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdshahriar/simple_parallax_website.git"
+  },
+  "author": "Shahriar Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdshahriar/simple_parallax_website/issues"
+  },
+  "homepage": "https://github.com/bdshahriar/simple_parallax_website"
+}
